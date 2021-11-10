@@ -1,8 +1,7 @@
 # Working with Messy Data
-## Who gets hired?
+### Who gets hired and why?
 
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
-
+![alt text](https://github.com/mishogavasheli/Working_with_Messy_Data/blob/main/Images/111.jpeg?raw=true)
 
 #### Table of content:
 * [About ptoject](https://github.com/mishogavasheli/Working_with_Messy_Data/edit/main/README.md#:~:text=Result%20as%20sumery-,About%20ptoject,-On%20the%20second)
@@ -34,6 +33,8 @@ First step was to identify the most repeated word combitinations under the 'posi
 3. What skills, tools, degrees are required?
 
 
+![alt text](https://github.com/mishogavasheli/Working_with_Messy_Data/blob/main/Images/Screenshot%202021-11-10%20at%2020.52.35.png?raw=true)
+
 ## Process
 1.Extracting words from the description (finding the code specifically) Once extracted, it’s all in boolean so it didn’t mean much. Creating new columns that show if a word has been mentioned (degrees)
 2.Making the data suitable for Tableau. How to read boolean values in Tableau.We had to convert them to numerical so Tableau could read them 
@@ -51,3 +52,5 @@ For more visualisations check out our [Tableau workbook](https://public.tableau.
 Location_New York appears to have the most data science related job advertisments, while San Francisco, Seattle, Chicago, Boston, Washington DC all have a large amount of opportunities.
 Soft/Hard Skills_Communication and "Statistics appear to be the most desired soft skills. While Python, Excel and SQL are clearly the most desired technical skills that prospective companies are looking for.
 Education_If you have hopes and dreams of being a data scientist, then a PHd is common requirement. Data analysts on the other hand require a bachelors degree on average. 
+
+![alt text](https://github.com/mishogavasheli/Working_with_Messy_Data/blob/main/Images/Screenshot%202021-11-10%20at%2020.59.48.png?raw=true)
